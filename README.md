@@ -21,7 +21,7 @@ Para executar o código neste repositório, certifique-se de ter as seguintes de
 ## Análise
 A análise inclui os seguintes passos principais:
 
-- impeza de Dados: Remoção de duplicatas, tratamento de valores ausentes e correção de tipos de dados.
+- Limpeza de Dados: Remoção de duplicatas, tratamento de valores ausentes e correção de tipos de dados.
 - Análise Exploratória de Dados (EDA): Visualização de padrões, tendências e outliers.
 - Engenharia de Features: Criação de novas features ou transformação de features existentes para melhorar o desempenho dos modelos (se aplicável).
 - Modelos de Machine Learning: Construção de modelos preditivos para analisar determinados resultados.
